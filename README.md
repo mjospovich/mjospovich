@@ -36,3 +36,9 @@
 ### 📊 Contribution Stats
 
 <img alt="Martin's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=mjospovich&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+
+---------------------------------
+![](https://komarev.com/ghpvc/?username=mjospovich&color=blue&style=flat-square)
+![](https://img.shields.io/github/followers/mjospovich?color=blue&style=flat-square)
+![](https://img.shields.io/github/stars/mjospovich?color=blue&style=flat-square)
+![](https://www.codewars.com/users/mjosipovich/badges/small)
