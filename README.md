@@ -42,9 +42,8 @@
 ![](https://komarev.com/ghpvc/?username=mjospovich&color=blue&style=flat-square)
 ![](https://img.shields.io/github/followers/mjospovich?color=blue&style=flat-square)
 ![](https://img.shields.io/github/stars/mjospovich?color=blue&style=flat-square)
-<a href="https://www.codewars.com/users/mjosipovich" target="_blank">
-  <img src="https://www.codewars.com/users/mjosipovich/badges/small" alt="Codewars Badge">
-</a>
+[![Codewars Badge](https://www.codewars.com/users/mjosipovich/badges/small)](https://www.codewars.com/users/mjosipovich)
+
 
 
 
