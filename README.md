@@ -4,7 +4,7 @@
 
 
 ### A bit about me:
-- 🌱 I’m currently learning **Python, Kivy, Thread-based parallelism, SQL**
+- 🌱 I’m currently learning **ML and DL in Python, Kivy, Thread-based parallelism, SQL**
 
 - 🎓 I'm currently studying **at FESB - Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture**
 
