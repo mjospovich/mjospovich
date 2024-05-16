@@ -1,10 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Martin</h1>
+<h2 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">A CS student and developer from Croatia.</h3>
 
 
 ### A bit about me:
-- 🌱 I’m currently learning **ML and DL in Python, Kivy, Thread-based parallelism, SQL**
+- 🌱 I’m currently learning **ML and DL in Python, Streamlit, Thread-based parallelism, SQL**
 
 - 🎓 I'm currently studying **at FESB - Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture**
 
