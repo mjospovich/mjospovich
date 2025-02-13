@@ -46,7 +46,7 @@
     alt="GitHub Stats"
     height="200"/>
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjospovich&langs_count=4&hide=HTML&theme=holi&hide_border=true&exclude_repo=GLFW_mac_config,GLFW-config-for-Win11" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjospovich&langs_count=4&hide=HTML&theme=holi&hide_border=true&exclude_repo=GLFW_mac_config,GLFW-config-for-Win11,data-science-labs" 
     alt="Top Languages"
     height="200"/>
 </div>
